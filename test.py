@@ -1,2 +1,2 @@
-printf("This is the Github File")
-printf("This is version")
+print("This is the Github File")
+print("This is version")
